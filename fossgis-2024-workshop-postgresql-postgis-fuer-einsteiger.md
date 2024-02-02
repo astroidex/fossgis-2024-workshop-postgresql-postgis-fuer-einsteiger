@@ -2,7 +2,8 @@
 
 [FOSSGIS 2024 Hamburg Workshop 20. März 2024](https://www.fossgis-konferenz.de/2024/)
 
-![](img/fossgis23-logo.png ) ![](img/postgresql_postgis.png)
+![](img/fossgis24-logo.png ) ![](img/postgresql_postgis.png)
+
 
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
