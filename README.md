@@ -2,7 +2,7 @@
 
 Konferenz-Website https://www.fossgis-konferenz.de/2024/
 
-[FOSSGIS 2023 Workshop-Ankündigung](https://pretalx.com/fossgis2024/talk/38RFDU/)
+[FOSSGIS 2024 Workshop-Ankündigung](https://pretalx.com/fossgis2024/talk/38RFDU/)
 
 ![](img/fossgis24-logo.png ) ![](img/postgresql_postgis.png)
 
